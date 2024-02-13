@@ -166,9 +166,8 @@ The site is hosted on Github Pages and was deployed using the following steps:
 1. Log into GitHub
 2. Select correct repository from the dashboard.
 3. Select "settings" on the repository page.
-4. Under "GitHub Pages" section, choose master brance as source.
-
-Live site can be viewed here: [BurgerBoyz]([https://justinmcc066.github.io/MS1/index.html](https://vchopra86.github.io/BurgerBoyz-milestone-project-one/))
+4. Under "GitHub Pages" section, choose master brance as source
+Live site can be viewed here: [BurgerBoyz]([https://justinmcc066.github.io/MS1/index.html](https://vchopra86.github.io/BurgerBoyz-milestone-project-one)]
 
 ### Local
 
@@ -178,7 +177,7 @@ Live site can be viewed here: [BurgerBoyz]([https://justinmcc066.github.io/MS1/i
 4. Navigate to your desired file location.
 5. Paste the following code and input it into your terminal to clone.
 ```
-git clone [https://github.com/VCHOPRA86/BurgerBoyz-milestone-project-one.git]
+git clone https://github.com/VCHOPRA86/BurgerBoyz-milestone-project-one.git
 ```
 
  - - - - 
