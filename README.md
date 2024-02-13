@@ -172,13 +172,13 @@ Live site can be viewed here: [BurgerBoyz]([https://justinmcc066.github.io/MS1/i
 
 ### Local
 
-1. Navigate to [[[https://github.com/JustinMcC066/MS1.git](https://github.com/VCHOPRA86/BurgerBoyz-milestone-project-one.git)]([https://github.com/VCHOPRA86/BurgerBoyz-milestone-project-one.git](https://github.com/VCHOPRA86/BurgerBoyz-milestone-project-one.git))]([https://github.com/JustinMcC066/MS1.git](https://github.com/VCHOPRA86/BurgerBoyz-milestone-project-one.git))
+1. Navigate to [(https://github.com/VCHOPRA86/BurgerBoyz-milestone-project-one.git)]
 2. Click the green 'Clone or Download' button and copy the text url in the dropdown.
 3. Open up a terminal window in your IDE of choice.
 4. Navigate to your desired file location.
 5. Paste the following code and input it into your terminal to clone.
 ```
-git clone [https://github.com/JustinMcC066/MS1.git](https://github.com/VCHOPRA86/BurgerBoyz-milestone-project-one.git)
+git clone [https://github.com/VCHOPRA86/BurgerBoyz-milestone-project-one.git]
 ```
 
  - - - - 
