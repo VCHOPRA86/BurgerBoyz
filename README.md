@@ -22,8 +22,8 @@ The website was built with a responsive look and feel for desktop, tablet and mo
  - - - - 
 ## Contents
 
-1. [UX](#WebsiteOwnerBusinessGoals "Goto UX")
-    * [Website Owner Business Goals](#WebsiteOwnerBusinessGoals "Goto Website Owner Business Goals")
+1. [UX](#Website-Owner-Business-Goals "Goto UX")
+    * [Website Owner Business Goals](#Website-Owner-Business-Goals "Goto Website Owner Business Goals")
     * [Wireframes](#Wireframes "Goto Wireframes")
 
 2. [Features](#Features "Goto Features")
