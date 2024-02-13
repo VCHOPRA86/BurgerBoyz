@@ -172,7 +172,7 @@ Live site can be viewed here: [BurgerBoyz]([https://justinmcc066.github.io/MS1/i
 
 ### Local
 
-1. Navigate to [(https://github.com/VCHOPRA86/BurgerBoyz-milestone-project-one.git)]
+1. Navigate to https://github.com/VCHOPRA86/BurgerBoyz-milestone-project-one.git
 2. Click the green 'Clone or Download' button and copy the text url in the dropdown.
 3. Open up a terminal window in your IDE of choice.
 4. Navigate to your desired file location.
