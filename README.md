@@ -22,8 +22,8 @@ The website was built with a responsive look and feel for desktop, tablet and mo
  - - - - 
 ## Contents
 
-1. [UX](#UX "Goto UX")
-    * [Website Owner Business Goals](#Website-goals "Goto Website-Goals")
+1. [UX](#WebsiteOwnerBusinessGoals "Goto UX")
+    * [Website Owner Business Goals](#WebsiteOwnerBusinessGoals "Goto Website Owner Business Goals")
     * [Wireframes](#Wireframes "Goto Wireframes")
 
 2. [Features](#Features "Goto Features")
@@ -166,19 +166,19 @@ The site is hosted on Github Pages and was deployed using the following steps:
 1. Log into GitHub
 2. Select correct repository from the dashboard.
 3. Select "settings" on the repository page.
-4. Under "GitHub Pages" section, choose master brance as source
-   
- Live site can be viewed here: [BurgerBoyz](https://vchopra86.github.io/BurgerBoyz-milestone-project-one/)
+4. Under "GitHub Pages" section, choose master brance as source.
+
+Live site can be viewed here: [The Blue Note](https://justinmcc066.github.io/MS1/index.html)
 
 ### Local
 
-1. Navigate to https://github.com/VCHOPRA86/BurgerBoyz-milestone-project-one.git
+1. Navigate to [https://github.com/JustinMcC066/MS1.git](https://github.com/JustinMcC066/MS1.git)
 2. Click the green 'Clone or Download' button and copy the text url in the dropdown.
 3. Open up a terminal window in your IDE of choice.
 4. Navigate to your desired file location.
 5. Paste the following code and input it into your terminal to clone.
 ```
-git clone https://github.com/VCHOPRA86/BurgerBoyz-milestone-project-one.git
+git clone https://github.com/JustinMcC066/MS1.git
 ```
 
  - - - - 
