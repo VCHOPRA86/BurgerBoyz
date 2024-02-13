@@ -168,17 +168,17 @@ The site is hosted on Github Pages and was deployed using the following steps:
 3. Select "settings" on the repository page.
 4. Under "GitHub Pages" section, choose master brance as source.
 
-Live site can be viewed here: [The Blue Note](https://justinmcc066.github.io/MS1/index.html)
+Live site can be viewed here: [BurgerBoyz]([https://justinmcc066.github.io/MS1/index.html](https://vchopra86.github.io/BurgerBoyz-milestone-project-one/))
 
 ### Local
 
-1. Navigate to [https://github.com/JustinMcC066/MS1.git](https://github.com/JustinMcC066/MS1.git)
+1. Navigate to [[[https://github.com/JustinMcC066/MS1.git](https://github.com/VCHOPRA86/BurgerBoyz-milestone-project-one.git)]([https://github.com/VCHOPRA86/BurgerBoyz-milestone-project-one.git](https://github.com/VCHOPRA86/BurgerBoyz-milestone-project-one.git))]([https://github.com/JustinMcC066/MS1.git](https://github.com/VCHOPRA86/BurgerBoyz-milestone-project-one.git))
 2. Click the green 'Clone or Download' button and copy the text url in the dropdown.
 3. Open up a terminal window in your IDE of choice.
 4. Navigate to your desired file location.
 5. Paste the following code and input it into your terminal to clone.
 ```
-git clone https://github.com/JustinMcC066/MS1.git
+git clone [https://github.com/JustinMcC066/MS1.git](https://github.com/VCHOPRA86/BurgerBoyz-milestone-project-one.git)
 ```
 
  - - - - 
