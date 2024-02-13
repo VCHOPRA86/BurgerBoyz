@@ -28,7 +28,6 @@ The website was built with a responsive look and feel for desktop, tablet and mo
 
 2. [Features](#Features "Goto Features")
     * [Existing Features](#Existing-Features "Goto Existing Features")
-    * [Features Left to Implement](#Features-Left-to-Implement "Goto Features Left to Implement")
 
 3. [Technologies Used](#Technologies-Used "Goto Technologies Used")
 
