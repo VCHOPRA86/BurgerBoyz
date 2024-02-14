@@ -878,10 +878,7 @@ button.submit-contact:hover {
 .cpy-right p {
     letter-spacing: 1px;
     font-size: 14px;
-}
-
-.cpy-right p a {
-    color: #eee;
+    color: #ffffff;
 }
 
 .cpy-right p a:hover {
@@ -1591,7 +1588,8 @@ h3.title-sub span {
     letter-spacing: 1px;
     border: none;
     border: 1px solid #c1c0c0;
-    /* flex-basis: 75%; */
+    flex-basis: 75%;
+    padding: 0;    
     border-radius: 4px;
     }
     .toggle {
