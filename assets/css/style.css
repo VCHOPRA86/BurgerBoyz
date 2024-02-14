@@ -127,6 +127,7 @@ h3.bb-title.mb-2 {
 
 .ingre {
     padding: 5px;
+    color: #000000;
 }
 
 section.subscribe-main.py-5 {
@@ -303,6 +304,10 @@ nav ul ul ul li {
 /* Change ' +' in order to change the Dropdown symbol */
 li>a:only-child:after {
     content: "";
+}
+
+p.titile-para-text.mx-auto {
+    color:#000000;
 }
 
 /* Media Queries
@@ -923,7 +928,7 @@ button.submit-contact:hover {
 }
 
 h4.p-mask {
-    color: #636363;
+    color: #000000;
     font-size: 20px;
     letter-spacing: 1px;
     text-align: center;
