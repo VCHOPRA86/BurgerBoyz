@@ -1472,7 +1472,6 @@ h3.title-sub span {
     }
 }
 
-@media (max-width: 440px) {}
 
 @media (max-width: 414px) {
     .caption ul li a i {
@@ -1518,6 +1517,7 @@ h3.title-sub span {
     -moz-border-radius: 4px;
     margin-bottom: 0;
     cursor: pointer;
+  }
 }
 
 @media (max-width: 320px) {
@@ -1535,6 +1535,7 @@ h3.title-sub span {
     a#logo {
         font-size: 25px;
     }
+}
     .newsletter-info input[type="email"] {
     font-size: 15px;
     color: #000;
