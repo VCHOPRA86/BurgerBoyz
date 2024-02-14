@@ -11,7 +11,7 @@ The BurgerBoyz website has been tested using the following methods:
 - [Responsiveness](#responsiveness)
 - [Browser Compatibility](#browser-compatibility)
 - [Project Feedback Review](#Project-Feedback-Review)
-- [Bugs](# Resolved-Bugs)
+- [Bugs](#Resolved-Bugs)
 
 # Code Validation
 
