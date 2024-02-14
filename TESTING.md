@@ -11,7 +11,7 @@ The BurgerBoyz website has been tested using the following methods:
 - [Responsiveness](#responsiveness)
 - [Browser Compatibility](#browser-compatibility)
 - [Project Feedback Review](#Project-Feedback-Review)
-- [Bugs](#bugs)
+- [Bugs](# Resolved-Bugs)
 
 # Code Validation
 
@@ -72,7 +72,7 @@ In the final stages of the project, I received feedback from friends & family.
 The feedback on the website and documentation was positive overall.  Feedback included changing the color of the paragraphs from #999 to #2b2828 as some found it hard to read. Making the logo a clickable link back to the home page. Adding a'Back to Top' button visible on all screen sizes. All have been implemented
 
 
-# Bugs
+# Resolved Bugs
 
 - Issue found on width size 360px with the Hamburger was out of alignment. Issue was fixed by changing the padding size.
 
