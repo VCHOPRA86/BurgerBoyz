@@ -563,6 +563,7 @@ a.button-bbz {
     border: 1px solid #c1c0c0;
     display: inline-block;
     border-radius: 4px;
+    margin-bottom: 10px;
 }
 
 a.button-bbz.active {
