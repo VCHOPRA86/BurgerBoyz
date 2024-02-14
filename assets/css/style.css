@@ -1584,6 +1584,16 @@ h3.title-sub span {
     a#logo {
         font-size: 25px;
     }
+    .newsletter-info input[type="email"] {
+    font-size: 15px;
+    color: #000;
+    outline: none;
+    letter-spacing: 1px;
+    border: none;
+    border: 1px solid #c1c0c0;
+    /* flex-basis: 75%; */
+    border-radius: 4px;
+}
 }
 
 /* //responsive */
