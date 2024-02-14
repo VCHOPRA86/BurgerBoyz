@@ -153,7 +153,7 @@ Wireframes were created using [Mockitt](https://mockitt.wondershare.com/) wirefr
 
 ## Testing
 
-Please refer here for more information on testing of the BurgerBoyz website
+Please refer [here](TESTING.md) for more information on testing of the BurgerBoyz website
 
  - - - - 
 
