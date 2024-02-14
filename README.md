@@ -38,7 +38,6 @@ The website was built with a responsive look and feel for desktop, tablet and mo
     * [Content](#Content "Goto Content")
     * [Code](#Code "Goto Code")
     * [Media](#Media "Goto Media")
-    * [Acknowledgements](#Acknowledgements "Goto Acknowledgements")
 
  - - - -
 
