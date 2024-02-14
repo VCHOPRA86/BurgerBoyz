@@ -755,25 +755,11 @@ button.back-to-top.show:active {
     margin-bottom: 7em;
 }
 
-.img-blog-2 {
-    position: absolute;
-    text-align: center;
-    /* width: 100%; */
-    bottom: -20%;
-    animation: scale 4s linear infinite;
-    left: 4%;
-    right: 0;
-    z-index: -1;
-}
-
-.wthree_banner_bottom_grid_right h4 a {
-    font-size: 28px;
-    letter-spacing: 0.8px;
-    font-weight: 600;
-    color: #333;
-}
-
 /* //services */
+h3.map1 {
+
+    display: none;
+}
 
 /* newsletter */
 .subscribe-main {
