@@ -93,7 +93,7 @@ Wireframes were created using [Mockitt](https://mockitt.wondershare.com/) wirefr
 
 *  **Menu List** - Three menus have been provided covering all dishes available at the restaurant - Breakfast, Lunch and Dinner. The items include a description of the dish, allergen information, dietary information and pricing.
 
-*  **Image Popup** - Menu page has a popup feature when clicking on the menu.
+*  **Image Popup** - Menu page has a popup feature when clicking on the menu items.
 
 *  **Newsletter Sign-Up** - Visitors can sign up to a newsletter to keep up to date with restaurant news and upcoming events.
 
