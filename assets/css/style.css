@@ -310,6 +310,10 @@ p.titile-para-text.mx-auto {
     color:#000000;
 }
 
+p.bbf {
+    color: #ffffff;
+}
+
 /* Media Queries
 --------------------------------------------- */
 @media all and (max-width: 991px) {
