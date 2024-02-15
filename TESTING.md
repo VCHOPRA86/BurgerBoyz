@@ -8,6 +8,7 @@ The BurgerBoyz website has been tested using the following methods:
         - [Menu Page](#Menu-page)
         - [Contact Page](#Contact-Us-page)
     - [W3C CSS Validator](#w3c-css-validator)
+- [PageSpeed Insights](#PageSpeed-Insights)
 - [Responsiveness](#responsiveness)
 - [Browser Compatibility](#browser-compatibility)
 - [Project Feedback Review](#Project-Feedback-Review)
@@ -35,6 +36,26 @@ BurgerBoyz website has passed all tests using the W3C HTML Validator tool
 
 BurgerBoyz website has passed all tests using the W3C CSS Validator tool
 <h2 align="center"><img src="assets/readme/code-validator-css.jpg"></h2>
+
+# PageSpeed Insights
+
+### PageSpeed Insights Report for Homepage (Desktop)
+<h2 align="center"><img src="assets/readme/pagespeed-report-index-page-desktop.jpg"></h2>
+
+### PageSpeed Insights Report for Homepage (Mobile)
+<h2 align="center"><img src="assets/readme/pagespeed-report-index-page-mobile.jpg"></h2>
+
+I used the pagespeed insights reports to examine the pages of the website for the following
+- Performace
+- Accessibility
+- Best Practices 
+- SEO
+
+All Pages performed well (scored 83 and above on desktop) in:
+- Performance, Accessibility, Best Practices and SEO.
+
+Some Pages did not perform as well (scored 73 and above) in:
+- Performance on mobile
 
 # Browser Compatibility
 
