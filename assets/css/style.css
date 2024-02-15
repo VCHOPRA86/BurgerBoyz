@@ -544,13 +544,13 @@ li.mb-4.pl-4 {
     letter-spacing: 3px;
 }
 
-.banner-info_agile_bbz h3 {
+.banner-info_agile_bbz h2 {
     font-size: 60px;
     letter-spacing: 1px;
     font-weight: 600;
 }
 
-.banner-info_agile_bbz h3 span {
+.banner-info_agile_bbz h2 span {
     color: #ff3f34;
 }
 
@@ -1186,7 +1186,7 @@ h3.title-sub span {
         font-size: 22px;
     }
 
-    .banner-info_agile_bbz h3 {
+    .banner-info_agile_bbz h2 {
         font-size: 54px;
     }
 
@@ -1206,7 +1206,7 @@ h3.title-sub span {
         font-size: 20px;
     }
 
-    .banner-info_agile_bbz h3 {
+    .banner-info_agile_bbz h2 {
         font-size: 50px;
     }
 
@@ -1256,7 +1256,7 @@ h3.title-sub span {
 }
 
 @media (max-width: 1050px) {
-    .banner-info_agile_bbz h3 {
+    .banner-info_agile_bbz h2 {
         font-size: 46px;
     }
 
@@ -1397,7 +1397,7 @@ h3.title-sub span {
         font-size: 14px;
     }
 
-    .banner-info_agile_bbz h3 {
+    .banner-info_agile_bbz h2 {
         font-size: 42px;
     }
 
@@ -1455,7 +1455,7 @@ h3.title-sub span {
         padding-top: 2em;
     }
 
-    .banner-info_agile_bbz h3 {
+    .banner-info_agile_bbz h2 {
         font-size: 40px;
         line-height: 40px;
         margin-top: 10px;
