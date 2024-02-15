@@ -123,7 +123,9 @@ Wireframes were created using [Mockitt](https://mockitt.wondershare.com/) wirefr
 
 * [Pexels](https://www.pexels.com/)
   * Pexels was used to source imagery for the website.
-
+ 
+* [Favicon.io](https://favicon.io/)
+  * Added a Favicon burger icon to the website.
 
 * [Adobe Photoshop](https://www.adobe.com/ie/products/photoshop.html)
   * For image editing and resizing.
