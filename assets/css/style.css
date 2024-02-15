@@ -1115,55 +1115,6 @@ h3.title-sub {
 h3.title-sub span {
     display: block;
 }
-
-/* team */
-.caption {
-    text-align: center;
-}
-
-.team-text h4 a {
-    font-size: 26px;
-    color: #000;
-    letter-spacing: 1px;
-    margin: 1.2em 0 0.8em;
-    font-weight: 600;
-    display: inline-block;
-}
-
-.caption ul li {
-    display: inline-block;
-}
-
-.caption ul li:nth-child(2) {
-    margin: 0 0.3em;
-}
-
-.caption ul li a i {
-    color: #fff;
-    width: 35px;
-    height: 35px;
-    font-size: 16px;
-    line-height: 2.2;
-}
-
-.caption ul li a i:hover {
-    transform: rotateY(360deg);
-    transition: 0.5s all;
-}
-
-.caption ul li a i.f1 {
-    background: #3b5998;
-}
-
-.caption ul li a i.f2 {
-    background: #00aced;
-}
-
-.caption ul li a i.f3 {
-    background: #f44336;
-}
-
-/* //team */
 /* //about page */
 
 /* responsive */
