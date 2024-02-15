@@ -40,10 +40,10 @@ BurgerBoyz website has passed all tests using the W3C CSS Validator tool
 # PageSpeed Insights
 
 ### PageSpeed Insights Report for Homepage (Desktop)
-<h2 align="center"><img src="assets/readme/pagespeed-report-index-page-desktop.jpg"></h2>
+<h2 align="center"><img src="assets/readme/pagespeed-report-index-page-desktop.png"></h2>
 
 ### PageSpeed Insights Report for Homepage (Mobile)
-<h2 align="center"><img src="assets/readme/pagespeed-report-index-page-mobile.jpg"></h2>
+<h2 align="center"><img src="assets/readme/pagespeed-report-index-page-mobile.png"></h2>
 
 I used the pagespeed insights reports to examine the pages of the website for the following
 - Performace
