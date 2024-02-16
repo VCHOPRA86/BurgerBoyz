@@ -97,9 +97,11 @@ Wireframes were created using [Mockitt](https://mockitt.wondershare.com/) wirefr
 
 *  **Newsletter Sign-Up** - Visitors can sign up to a newsletter to keep up to date with restaurant news and upcoming events.
 
-*  **Contact Form** - Visitors can contact the restaurant via the contact page using the contact form for any further information or queries.
-
 *  **Header/Footer** - The header & footer dislays links to the restaurants social media accounts & authors information.
+
+*  *  **Contact Form** - Visitors can contact the restaurant via the contact page using the contact form for any further information or queries.
+ 
+*  *  **Thank You Page** - This appears only after the user has submitted a request using the contact form, and gives the user good visual feedback that the form has submitted. A link is present to enable the user to navigate back to the home page.
 
 
  - - - - 
