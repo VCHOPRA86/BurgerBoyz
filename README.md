@@ -121,7 +121,7 @@ Wireframes were created using [Mockitt](https://mockitt.wondershare.com/) wirefr
   * Used for adding social media icons and location marker icons.
 
 * [Mockitt](https://mockitt.wondershare.com/home.html)
-  * Used for adding social media icons and location marker icons.
+  * Used for creating the wireframe mockups.
 
 * [Pexels](https://www.pexels.com/)
   * Pexels was used to source imagery for the website.
