@@ -91,7 +91,7 @@ Wireframes were created using [Mockitt](https://mockitt.wondershare.com/) wirefr
 
 * **Navigation** - The navbar contains the restaurant logo and four main links Home - About Us - Menu - Contact Us.
 
-*  **Menu List** - Three menus have been provided covering all dishes available at the restaurant - Breakfast, Lunch and Dinner. The items include a description of the dish, allergen information, dietary information and pricing.
+*  **Menu List** - Menus have been provided covering all dishes available at the restaurant - Burgers & Shakes. The items include a description of the dish and pricing.
 
 *  **Image Popup** - Menu page has a popup feature when clicking on the menu items.
 
